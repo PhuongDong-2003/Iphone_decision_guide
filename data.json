@@ -1,0 +1,26 @@
+[
+    {
+        "question": "You want to buy IPhone?",
+        "yes": {
+            "question": "You want to buy the latest version?",
+            "yes": {
+                "question": "IPhone 14?",
+                "yes": {
+                    "question": "You care about the camera?",
+                    "yes": "IPhone 14 pro or IPhone 14 Promax",
+                    "no":{
+                        "question": "You care about the screen",
+                        "yes": "IPhone 14plus or IPhone 14 promax.",
+                        "no": "IPhone 14"
+                    }
+                },
+                "no": "Iphone 15 launched in September 2023"
+                
+            },
+            "no":"Old Versions like IPhone 13 you can refer here 'https://shopdunk.com/iphone-13-series', IPhone 12 you can refer here:'https://shopdunk.com/iphone-12-series'"
+        },
+        "no": "Websites that sell phones: 'https://www.topzone.vn/'"
+      
+        
+    }
+]
