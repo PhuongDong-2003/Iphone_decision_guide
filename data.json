@@ -7,10 +7,10 @@
                 "question": "IPhone 14?",
                 "yes": {
                     "question": "You care about the camera?",
-                    "yes": "IPhone 14 pro or IPhone 14 Promax",
+                    "yes": "IPhone 14 Pro or IPhone 14 Promax",
                     "no":{
                         "question": "You care about the screen",
-                        "yes": "IPhone 14plus or IPhone 14 promax.",
+                        "yes": "IPhone 14 Plus or IPhone 14 Promax.",
                         "no": "IPhone 14"
                     }
                 },
